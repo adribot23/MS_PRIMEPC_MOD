@@ -1435,7 +1435,7 @@
           <element xsi:nil="true"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4TJxM5l4EfCO6Km6BL5YeA" x="14784" y="8844" width="1196" height="702"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_5laDQZl4EfCO6Km6BL5YeA" type="Text" fontName="Segoe UI" fontHeight="14" description="(1,1)" fillColor="14547421" transparency="0" lineColor="1942301" lineWidth="1">
+        <children xmi:type="notation:Shape" xmi:id="_5laDQZl4EfCO6Km6BL5YeA" type="Text" fontName="Segoe UI" fontHeight="14" description="(1,N)" fillColor="14547421" transparency="0" lineColor="1942301" lineWidth="1">
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_5laDQpl4EfCO6Km6BL5YeA" type="DiagramName">
             <element xsi:nil="true"/>
           </children>
